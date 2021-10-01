@@ -72,6 +72,10 @@ ul.switcher li{
   box-shadow: 0px 30px 60px -5px #000;
   background-image:url('https://w0.peakpx.com/wallpaper/922/906/HD-wallpaper-el-juego-del-calamar-red-shield.jpg');
   background-size:cover;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 .login-container-wrapper .logo,
 .login-container-wrapper .welcome {
