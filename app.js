@@ -1,5 +1,8 @@
+
 /* 
-Author: Carl Castanas  
+Author : Vincent Garreau  - vincentgarreau.com
+MIT license: http://opensource.org/licenses/MIT
+Author Remake: Carl Castanas  
 Date: Aug 31, 2021
 */
 
