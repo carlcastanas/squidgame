@@ -181,7 +181,7 @@ input[type="checkbox"]:checked + label::before,
 .checkbox-success input[type="radio"]:checked + label::before {
     background-color: #25a08d !important;
 }
-.btn-success {
+.btn-myonClickFn {
   background-color: #25a08d;
   background-image: none;
   padding: 8px 50px;
