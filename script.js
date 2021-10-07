@@ -1,3 +1,6 @@
+function myonClickFn(){
+document.location.href='index1.html';
+}
 $(document).ready(function(){
 	
 	$('ul.switcher li').click(function(){
